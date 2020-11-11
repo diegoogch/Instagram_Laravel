@@ -8,6 +8,7 @@
 </p>
 
 ## About Laravel
+Este es un proyecto de php hecho con Laravel, el proyecto es similar a la red social instagram donde podremos crear nuestro usuario y publicar nuestras imagenes para que otros usuarios lo vean asi como tambien darles likes y comentarlas, al momento de registrarnos lo datos se agragaran a la base de datos
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
